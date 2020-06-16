@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'Nilacaraka Bina';
+    src: url('Nilacaraka Bina.eot');
+    src: url('Nilacaraka Bina.eot?#iefix') format('embedded-opentype'),
+         url('Nilacaraka Bina.woff2') format('woff2'),
+         url('Nilacaraka Bina.woff') format('woff'),
+         url('Nilacaraka Bina.ttf') format('truetype'),
+         url('Nilacaraka Bina.svg#Nilacaraka Binaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
